@@ -14,3 +14,8 @@ I have started my masters in Us after completing ny bachelors in India. My bache
 | Madhurai | Meenakshi Temple | 2hrs |
 | Banglore | Mysore Palace | 4hr |
 
+---
+
+# Quotes
+>To a great mind,nothing is little- *Sherlock holmes*
+>The little things in life are as intresting as the big ones.- *Henry David Thoreau*
