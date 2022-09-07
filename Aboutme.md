@@ -6,6 +6,8 @@ I have started my masters in Us after completing ny bachelors in India. My bache
 ![anjali pic](Anjali.jfif)
 
 ---
+# Table Creation
+Here i have created a table of some locations which are quite famous in India.These are the places which i strongly recommend someone to visit.There are many other places to visit in India, but these are the places which i have visited and experienced the beauty of them.
 
 | Name of City| Location |  Time |
 | --- | --- | ---: |
