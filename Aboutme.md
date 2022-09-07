@@ -4,3 +4,12 @@ I have started my masters in Us after completing ny bachelors in India. My bache
 
 
 ![anjali pic](Anjali.jfif)
+
+---
+
+| Name of City| Location |  Time |
+| --- | --- | ---: |
+| Delhi | Tajmahal | 2hrs |
+| Hyderabad | Charminar | 1hr |
+| Madhurai | Meenakshi Temple | 2hrs |
+| Banglore | Mysore Palace | 4hr |
