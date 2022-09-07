@@ -17,5 +17,5 @@ I have started my masters in Us after completing ny bachelors in India. My bache
 ---
 
 # Quotes
->To a great mind,nothing is little- *Sherlock holmes*
+>To a great mind,nothing is little- *Sherlock holmes*<br>
 >The little things in life are as intresting as the big ones.- *Henry David Thoreau*
