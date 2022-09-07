@@ -14,5 +14,5 @@ Reagon Washington
 # unordered list
 ### List of other locations around the museum.
 * National Gallery of Art - Sculpture Garden
-* Smithsonian Institution building<br>
+* Smithsonian Institution buildings<br>
 [imagelink](Aboutme.md)
