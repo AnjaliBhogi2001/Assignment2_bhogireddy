@@ -13,3 +13,4 @@ I have started my masters in Us after completing ny bachelors in India. My bache
 | Hyderabad | Charminar | 1hr |
 | Madhurai | Meenakshi Temple | 2hrs |
 | Banglore | Mysore Palace | 4hr |
+
